@@ -1,0 +1,10 @@
+Atención V26 Android
+
+Esta versión mantiene la lógica de la aplicación de escritorio, con una
+interfaz táctil adaptada a teléfonos Android.
+
+La barra de título de Windows, el Registro de Windows, la bandeja del sistema
+y cualquier dependencia exclusiva de Windows no forman parte de Android.
+La sucursal se conserva en Administración, pero no se puede mapear desde Excel
+ni se muestra como columna en Revisión; los registros se filtran por la sucursal
+configurada en el dispositivo.

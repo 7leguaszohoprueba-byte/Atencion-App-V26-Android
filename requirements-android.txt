@@ -1,0 +1,5 @@
+kivy
+requests
+openpyxl
+pyjnius
+buildozer
